@@ -18,7 +18,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab90de41-946f-4002-b051-b90363b08ee6" name="Default Changelist" comment="" />
+    <list default="true" id="ab90de41-946f-4002-b051-b90363b08ee6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab2/Instruction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/lab2.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/Instruction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/lab3.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,20 +48,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Lab1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +74,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630445057359</updated>
-      <workItem from="1630445059298" duration="322000" />
+      <workItem from="1630445059298" duration="600000" />
+      <workItem from="1630683017017" duration="2767000" />
+      <workItem from="1630766423131" duration="472000" />
+      <workItem from="1630882001442" duration="40000" />
+      <workItem from="1631072337390" duration="2000" />
+      <workItem from="1631124002678" duration="718000" />
+      <workItem from="1631127472476" duration="1027000" />
+      <workItem from="1631200000769" duration="1626000" />
+      <workItem from="1631214943850" duration="3389000" />
     </task>
     <servers />
   </component>
@@ -82,5 +99,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
