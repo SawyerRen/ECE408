@@ -19,10 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab90de41-946f-4002-b051-b90363b08ee6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab2/Instruction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/lab2.cu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Instruction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab3.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Instruction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/example.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/lab4.cu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,12 +57,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Lab3" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Lab1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab4" />
+      <recent name="$PROJECT_DIR$/Lab3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,6 +83,10 @@
       <workItem from="1631127472476" duration="1027000" />
       <workItem from="1631200000769" duration="1626000" />
       <workItem from="1631214943850" duration="3389000" />
+      <workItem from="1631249821353" duration="86000" />
+      <workItem from="1631836080595" duration="528000" />
+      <workItem from="1631848785012" duration="3966000" />
+      <workItem from="1631890303086" duration="937000" />
     </task>
     <servers />
   </component>
